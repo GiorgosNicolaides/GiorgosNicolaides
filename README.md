@@ -1,12 +1,14 @@
 # Giorgos Nicolaides
 
  -    >💻 Upcoming Software Developer 
+ -    >👨‍🎓 Student at Harokopio University
 ---
-I'm a student in my second year studying Computer Science. I have a passion for learning new stuff, and exporing the IT world. I'm looking forward to gathering as much knowledge as possible.
+### I'm a student in my second year studying Computer Science. I have a passion for learning new stuff, and exporing the IT world. I'm looking forward to gathering as much knowledge as possible.
 <p allgn="left">
 <img width=100pxl src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfIDGdplNCyiqGh9nqCuySl-E-BcZFA2-PKQ&usqp=CAU">
 
 ---
+## Social media:
 <p allign="left">
 <a href="https://www.linkedin.com/in/giorgos-nicolaides-89a561231/">
 <img width=60pxl src=https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png></a>
@@ -16,3 +18,22 @@ I'm a student in my second year studying Computer Science. I have a passion for 
 <img width=60pxl src="https://www.edigitalagency.com.au/wp-content/uploads/Facebook-logo-blue-circle-large-transparent-png.png"></a>
 <a href="https://twitter.com/g_nicolaides02">
 <img width=60pxl src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/800px-Twitter-logo.svg.png"></a>
+
+---
+
+
+## Languages I use:
+
+<p allign="left">
+<img width=50pxl src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png">
+<img width=50pxl src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png">
+<img width=50pxl src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png">
+<img width=60pxl src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png">
+<img width=50pxl src="https://cdn.freebiesupply.com/logos/large/2x/mips-logo-png-transparent.png">
+</p>
+
+----
+
+
+
+<p ><center><img allign="center" alt="gif" width=400pxl src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e47ehtw56c2trzu2rfw8dtw2bmd25q06zj4lqx4os9g&rid=200.webp&ct=g"></center></p>
