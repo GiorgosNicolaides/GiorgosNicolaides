@@ -33,7 +33,9 @@
 </p>
 
 ----
-
+## Courses and Certifications
+-  <p> C++ by Udemy<a href="https://udemy-certificate.s3.amazonaws.com/image/UC-68ff0795-83eb-4c7b-96d1-6db728b977de.jpg?v=1667583788000">  (certification)</a></p>
+___
 
 
 <p ><center><img allign="center" alt="gif" width=400pxl src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e47ehtw56c2trzu2rfw8dtw2bmd25q06zj4lqx4os9g&rid=200.webp&ct=g"></center></p>
