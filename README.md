@@ -22,7 +22,7 @@
 ---
 
 
-## Languages I use:
+## Skills and Languages:
 
 <p allign="left">
 <img width=50pxl src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png">
