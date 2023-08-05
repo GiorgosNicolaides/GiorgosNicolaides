@@ -29,7 +29,9 @@
 <img width=50pxl src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png">
 <img width=50pxl src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png">
 <img width=60pxl src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png">
-<img width=60pxl src="<img width=60pxl src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png">
+<img width=60pxl src="https://e1.pngegg.com/pngimages/326/868/png-clipart-css3-badge-blue-and-white-css-icon-thumbnail.png">
+<img width=60pxl src="https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo.png">
+<img width=60pxl src="https://www.nicepng.com/png/detail/383-3839776_node-js-icon-png.png">
 
 <img width=50pxl src="https://cdn.freebiesupply.com/logos/large/2x/mips-logo-png-transparent.png">
 </p>
