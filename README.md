@@ -17,7 +17,7 @@
 <a href="https://www.facebook.com/giorgos.nicolaides.927/">
 <img width=60pxl src="https://www.edigitalagency.com.au/wp-content/uploads/Facebook-logo-blue-circle-large-transparent-png.png"></a>
 <a href="https://twitter.com/g_nicolaides02">
-<img width=60pxl src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/800px-Twitter-logo.svg.png"></a>
+<img width=60pxl src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/512px-Logo_of_Twitter.svg.png?20220821125553"></a>
 
 ---
 
