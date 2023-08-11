@@ -31,7 +31,7 @@
 <img width=60pxl src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png">
 <img width=60pxl src="https://e1.pngegg.com/pngimages/326/868/png-clipart-css3-badge-blue-and-white-css-icon-thumbnail.png">
 <img width=100pxl src="https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo.png">
-<img width=100pxl height=100pxl src="https://www.nicepng.com/png/detail/383-3839776_node-js-icon-png.png">
+<img width=100pxl height=50pxl src="https://www.nicepng.com/png/detail/383-3839776_node-js-icon-png.png">
 <img width=50pxl src="https://w7.pngwing.com/pngs/234/329/png-transparent-python-logo-thumbnail.png">
 <img width=50pxl src="https://cdn.freebiesupply.com/logos/large/2x/mips-logo-png-transparent.png">
 </p>
