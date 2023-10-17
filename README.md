@@ -3,7 +3,8 @@
  -    >💻 Upcoming Software Developer 
  -    >👨‍🎓 Student at Harokopio University
 ---
-### I'm a student in my second year studying Computer Science. I have a passion for learning new stuff, and exporing the IT world. I'm looking forward to gathering as much knowledge as possible.
+## I'm a student in my second year studying Computer Science. I have a passion for learning new stuff, and exporing the IT world. I'm looking forward to gathering as much knowledge as possible.
+
 <p allgn="left">
 <img width=100pxl src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfIDGdplNCyiqGh9nqCuySl-E-BcZFA2-PKQ&usqp=CAU">
 
