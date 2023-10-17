@@ -3,7 +3,7 @@
  -    >💻 Upcoming Software Developer 
  -    >👨‍🎓 Student at Harokopio University
 ---
-## I'm a student in my second year studying Computer Science. I have a passion for learning new stuff, and exporing the IT world. I'm looking forward to gathering as much knowledge as possible.
+## I'm a student in my second year studying Computer Science. I have a passion for learning new stuff, and exporing the IT world. I'm looking forward gathering as much knowledge as possible.
 
 <p allgn="left">
 <img width=100pxl src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfIDGdplNCyiqGh9nqCuySl-E-BcZFA2-PKQ&usqp=CAU">
@@ -25,7 +25,7 @@
 ## Skills and Languages:
 
 <p allign="left">
-<img width=50pxl src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png">
+<img  src="[https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png](https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif)">
 <img width=50pxl src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png">
 <img width=50pxl src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png">
 <img width=60pxl src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png">
